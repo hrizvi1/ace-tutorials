@@ -14,7 +14,7 @@
 			"tutorials":
 			[
 			  {
-		            "name"          : "Getting started with ACEv11 - Creating an Integration Server",
+		            "name"          : "Hasans Getting started with ACEv11 - Creating an Integration Server",
 		            "version"	: "1.0",
 		            "iibVersions"	: "10.*-11.*",
 		            "shortDesc"     : "Learn some basics about integration servers and how to use them (recommended v11.0.0.1 or higher)",
